@@ -1,2 +1,2 @@
-# Ola-Mundo
- Primeiro Repositorio do curdo de Git e GithuB
+# Olá,Mundo!
+ Primeiro Repositório do curdo de Git e GitHub
